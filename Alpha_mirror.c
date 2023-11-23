@@ -1,18 +1,4 @@
-Tips
-(In C)
-man ascii
-(In C)
-man isalpha
 
-/*
-**
-** QWASAR.IO -- alpha_mirror
-**
-** @param {char*} param_1
-**
-** @return {char*}
-**
-*/
 char* alpha_mirror(char* abc)
 {
  char *result = (char*) malloc(sizeof(char)*30);

@@ -34,7 +34,7 @@ int main()
 // ""
 
     char input = "FOR PONIES";
-    last_word(char* input);
+    last_word(input);
 
     return 0;
 }
